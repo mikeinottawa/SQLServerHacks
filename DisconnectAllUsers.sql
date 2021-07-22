@@ -1,6 +1,3 @@
-# SQLServerHacks
-SqlServer Hacks
-
 -- disconnect all users
 
 CREATE PROCEDURE usp_KillUsers @dbname varchar(50) as
